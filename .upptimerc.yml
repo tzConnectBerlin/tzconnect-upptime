@@ -12,7 +12,7 @@ sites:
   - name: TZ Connect Website
     url: https://tzconnect.com
   - name: Hackathon Portal
-    url: https://hackathon-portal-tezos.vercel.app/
+    url: https://hackathons.tzconnect.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
