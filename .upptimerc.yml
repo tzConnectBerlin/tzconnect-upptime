@@ -13,7 +13,7 @@ sites:
     url: https://tzconnect.com
   - name: Hackathon Portal
     url: https://hackathon-portal-tezos.vercel.app/
-  - name: Test Broken Site
+  - name: Test Broken Site 2
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
