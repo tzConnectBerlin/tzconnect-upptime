@@ -9,6 +9,10 @@ sites:
     url: https://f1-prediction-market.vercel.app/
   - name: PMM Faucet
     url: https://faucet.tzconnect.berlin/
+  - name: TZ Connect Website
+    url: https://tzconnect.com
+  - name: Hackathon Portal
+    url: https://hackathon-portal-tezos.vercel.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
