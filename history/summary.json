@@ -22,19 +22,19 @@
     "url": "https://f1-prediction-market.vercel.app/",
     "icon": "https://favicons.githubusercontent.com/f1-prediction-market.vercel.app",
     "slug": "f1-prediction-market",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 64,
-    "timeWeek": 85,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 202,
+    "timeDay": 47,
+    "timeWeek": 78,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2021-10-01": 0
+      "2021-10-01": 2
     }
   },
   {
