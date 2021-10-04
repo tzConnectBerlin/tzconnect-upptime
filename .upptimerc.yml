@@ -13,6 +13,8 @@ sites:
     url: https://tzconnect.com
   - name: Hackathon Portal
     url: https://hackathons.tzconnect.com/
+  - name: Mainnet Node
+    url: https://mainnet.newby.org/chains/main/blocks/head/header
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
