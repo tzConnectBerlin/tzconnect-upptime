@@ -1,7 +1,7 @@
 url: https://mainnet.newby.org/chains/main/blocks/head/header
-status: up
-code: 200
-responseTime: 768
-lastUpdated: 2021-10-06T01:56:44.659Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2021-10-06T02:33:38.849Z
 startTime: Mon Oct 04 2021 07:36:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
