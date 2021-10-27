@@ -78,19 +78,19 @@
     "url": "https://hackathons.tzconnect.com/",
     "icon": "https://favicons.githubusercontent.com/hackathons.tzconnect.com",
     "slug": "hackathon-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 170,
-    "timeWeek": 229,
-    "timeMonth": 233,
-    "timeYear": 232,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 231,
+    "timeDay": 168,
+    "timeWeek": 222,
+    "timeMonth": 230,
+    "timeYear": 231,
     "dailyMinutesDown": {
-      "2021-10-27": 0
+      "2021-10-27": 18
     }
   },
   {
